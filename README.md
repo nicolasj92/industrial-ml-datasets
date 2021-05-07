@@ -30,7 +30,7 @@ Name | Year | Type | Count | Target Variable | Instances | Official Train/Test S
  ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 High Storage System Anomaly Detection | 2018 | Signal | 20 | C (2) | 91.000 | <ul><li> [ ] </li></ul> | Synthetic | CSV | https://www.kaggle.com/inIT-OWL/high-storage-system-data-for-energy-optimization
 Genesis Pick-and-Place Demonstrator | 2018 | Signal | 23 | C (3) | 32.440 | <ul><li> [ ] </li></ul> | Real | CSV | https://www.kaggle.com/inIT-OWL/genesis-demonstrator-data-for-machine-learning/home
-Tennessee Easteman Process Simulation Dataset | 2017 | Signal | 51 | C (21) / R | > 10 Mio. | <ul><li> [x] </li></ul> | Synthetic | RData | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1
+Tennessee Eastman Process Simulation Dataset | 2017 | Signal | 51 | C (21) / R | > 10 Mio. | <ul><li> [x] </li></ul> | Synthetic | RData | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1
 Anemometer Fault Detection | 2011 | Signal | 16 <br> 16-20 | - | 345.700 <br> 208.800 | <ul><li> [x] </li></ul> | Real | Non-Standard | https://phmsociety.org/phm_competition/2011-phm-society-conference-data-challenge/
 Robot Execution Failures | 1999 | Signal | 89 | C (13) | 463 | <ul><li> [ ] </li></ul> | Real | Non-Standard | http://archive.ics.uci.edu/ml/datasets/Robot+Execution+Failures
 Mechanical Analysis | 1990 | Signal | 7 | C (6) | 209 | <ul><li> [x] </li></ul> | Real | MAT | http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis
@@ -60,3 +60,13 @@ NEU Surface Defect Database | 2013 | Image | 200x200 | C (6) | 1.800 | <ul><li> 
 HCI Industrial Optical Inspection | 2007 | Image | 512x512 | C (2) | 16.100 | <ul><li> [x] </li></ul> | Synthetic | PNG, Non-Standard | https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection
 
 ## Process Parameter Optimization
+
+ Name | Year | Type | Count | Instances | Official Train/Test Split | Data Source | Format | Link
+ ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- 
+ Laser Welding | 2020 | Signal | 13 | 361 | <ul><li> [ ] </li></ul> | Real | XLS | http://dx.doi.org/10.17632/2s5m3crbkd.2
+ 3D Printer | 2018 | Signal | 12 | 50 | <ul><li> [ ] </li></ul> | Real | CSV | https://www.kaggle.com/afumetto/3dprinter
+ Tool Path Generation | 2018 | Signal | 9 | 4.968 | <ul><li> [ ] </li></ul> | Real | CSV | https://data.mendeley.com/datasets/smyg6cfwpk/1
+ Mercedes-Benz Greener Manufacturing | 2017 | Signal | 378 | 8.420 | <ul><li> [x] </li></ul> | Real | CSV | https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/data
+ SECOM | 2008 | Signal | 591 | 1.567 | <ul><li> [ ] </li></ul> | Real | Non-Standard | http://archive.ics.uci.edu/ml/datasets/SECOM
+
+ 
