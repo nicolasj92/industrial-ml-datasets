@@ -39,5 +39,24 @@ CWRU Bearing Data | n.A. | Signal | 5 | C (2) | > 10 Mio. | <ul><li> [ ] </li></
 
 ## Predictive Quality and Quality Inspection
 
+Name | Year | Type | Count | Target Variable | Instances | Official Train/Test Split | Data Source | Format | Link
+ ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+Casting Product Quality Inspection | 2020 | Image | 300x300 <br> 512x512 | C (2) | 7.348 | <ul><li> [x] </li></ul> | Real | JPG | https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product
+GC10-DET Defect Location for Metal Surface | 2020 | Image | Varying | C (10) | 3.570 | <ul><li> [ ] </li></ul> | Real | JPG, XML | https://www.kaggle.com/zhangyunsheng/defects-class-and-location 
+Mechanic Component Images | 2020 | Image | 86x90 | C (3) | 285 | <ul><li> [ ] </li></ul> | Real | PNG | https://www.kaggle.com/satishpaladi11/mechanic-component-images-normal-defected
+Multi-Stage Continuous Flow Process | 2020 | Signal | 116 | - | 14.088 | <ul><li> [ ] </li></ul> | Real | CSV | https://www.kaggle.com/supergus/multistage-continuousflow-manufacturing-process/metadata
+Plastic Extrusion Defects | 2020 | Signal | 470 | - | 226.536 | <ul><li> [ ] </li></ul> | Real | CSV | https://www.kaggle.com/podsyp/find-a-defect-in-the-production-extrusion-line/metadata
+AITEX | 2019 | Image | 4096x256 | C (13) | 245 | <ul><li> [ ] </li></ul> | Real | PNG, Mask | https://www.aitex.es/afid
+Deep PCB | 2019 | Image | 640x640 | C (7) | 1.500 | <ul><li> [x] </li></ul> | Real | JPG, Mask | https://github.com/Charmve/Surface-Defect-Detection/tree/master/DeepPCB
+Severstal Steel Defect Detection | 2019 | Image | 1600x256 | C (5) | 18.074 | <ul><li> [x] </li></ul> | Real | JPG, CSV | https://www.kaggle.com/c/severstal-steel-defect-detection/overview
+Turning Dataset for Chatter Diagnosis | 2019 | Signal | 8 | C (4) | > 10 Mio. | <ul><li> [ ] </li></ul> | Real | MAT | http://dx.doi.org/10.17632/hvm4wh3jzx.1
+Magnetic Tile Defect | 2018 | Image | 248x373 | C (6) | 1.344 | <ul><li> [ ] </li></ul> | Real | JPG, PNG | https://github.com/abin24/Magnetic-tile-defect-datasets
+TIG Welding | 2018 | Image | 800x974 | C (6) | 33.254 | <ul><li> [x] </li></ul> | Real | PNG, JSON | https://www.kaggle.com/danielbacioiu/tig-aluminium-5083
+Mining Process | 2017 | Signal | 24 | R | 737.454 | <ul><li> [ ] </li></ul> | Real | CSV | https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process
+Steel Plate Faults | 2017 | Signal | 27 | C (7) | 1.941 | <ul><li> [ ] </li></ul> | Real | CSV | https://www.kaggle.com/uciml/faulty-steel-plates
+Bosch Production Line Performance | 2016 | Signal | 4264 | C (2) | 2.368.435 | <ul><li> [x] </li></ul> | Real | CSV | https://www.kaggle.com/c/bosch-production-line-performance/overview
+WM811K Wafer Maps | 2014 | 2D Defect Matrix | Varying | C (9) | 811.457 | <ul><li> [ ] </li></ul> | Real | MAT | http://mirlab.org/dataSet/public
+NEU Surface Defect Database | 2013 | Image | 200x200 | C (6) | 1.800 | <ul><li> [ ] </li></ul> | Real | BMP, XML | http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
+HCI Industrial Optical Inspection | 2007 | Image | 512x512 | C (2) | 16.100 | <ul><li> [x] </li></ul> | Synthetic | PNG, Non-Standard | https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection
 
 ## Process Parameter Optimization
