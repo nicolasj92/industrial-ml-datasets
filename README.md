@@ -26,6 +26,16 @@
 
 ## Process Monitoring
 
+Name | Year | Type | Count | Target Variable | Instances | Official Train/Test Split | Data Source | Format | Link
+ ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+High Storage System Anomaly Detection | 2018 | Signal | 20 | C (2) | 91.000 | <ul><li> [ ] </li></ul> | Synthetic | CSV | https://www.kaggle.com/inIT-OWL/high-storage-system-data-for-energy-optimization
+Genesis Pick-and-Place Demonstrator | 2018 | Signal | 23 | C (3) | 32.440 | <ul><li> [ ] </li></ul> | Real | CSV | https://www.kaggle.com/inIT-OWL/genesis-demonstrator-data-for-machine-learning/home
+Tennessee Easteman Process Simulation Dataset | 2017 | Signal | 51 | C (21) / R | > 10 Mio. | <ul><li> [x] </li></ul> | Synthetic | RData | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1
+Anemometer Fault Detection | 2011 | Signal | 16 <br> 16-20 | - | 345.700 <br> 208.800 | <ul><li> [x] </li></ul> | Real | Non-Standard | https://phmsociety.org/phm_competition/2011-phm-society-conference-data-challenge/
+Robot Execution Failures | 1999 | Signal | 89 | C (13) | 463 | <ul><li> [ ] </li></ul> | Real | Non-Standard | http://archive.ics.uci.edu/ml/datasets/Robot+Execution+Failures
+Mechanical Analysis | 1990 | Signal | 7 | C (6) | 209 | <ul><li> [x] </li></ul> | Real | MAT | http://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis
+CWRU Bearing Data | n.A. | Signal | 5 | C (2) | > 10 Mio. | <ul><li> [ ] </li></ul> | Real | MAT | https://csegroups.case.edu/bearingdatacenter
+
 
 ## Predictive Quality and Quality Inspection
 
