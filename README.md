@@ -1,5 +1,11 @@
 # Industrial ML Datasets
 
+The following is a curated list of datasets, publically available for machine learning researches in the area of manufacturing.
+
+:heavy_check_mark: indicates a preset split between training and testing data.
+
+:globe_with_meridians: indicates, that the test set labels are hidden behind an evaluation server.
+
 ## Predictive Maintenance and Condition Monitoring
 
  Name | Year | Feature Type | Feature Count | Target Variable | Instances | Official Train/Test Split | Data Source | Format | |
