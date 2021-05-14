@@ -49,7 +49,7 @@ Name | Year | Feature Type | Feature Count | Target Variable | Instances | Offic
  ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 **Casting Product Quality Inspection** | 2020 | Image | 300x300 <br> 512x512 | C (2) | 7.348 | :heavy_check_mark: | Real | JPG | CC-BY-NC-ND 4.0 | [Link](https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
 **GC10-DET Defect Location for Metal Surface** | 2020 | Image | Varying | C (10) | 3.570 |  | Real | JPG, XML | ? | [Link](https://www.kaggle.com/zhangyunsheng/defects-class-and-location) 
-**Mechanic Component Images** | 2020 | Image | 86x90 | C (3) | 285 |  | Real | PNG | Other (not specified) | [Link](https://www.kaggle.com/satishpaladi11/mechanic-component-images-normal-defected)
+**Mechanic Component Images** | 2020 | Image | 86x90 | C (3) | 285 |  | Real | PNG | ? | [Link](https://www.kaggle.com/satishpaladi11/mechanic-component-images-normal-defected)
 **Multi-Stage Continuous Flow Process** | 2020 | Signal | 116 | - | 14.088 |  | Real | CSV | ? | [Link](https://www.kaggle.com/supergus/multistage-continuousflow-manufacturing-process/metadata)
 **Plastic Extrusion Defects** | 2020 | Signal | 470 | - | 226.536 |  | Real | CSV | CC BY-NC-ND 4.0 | [Link](https://www.kaggle.com/podsyp/find-a-defect-in-the-production-extrusion-line/metadata)
 **AITEX** | 2019 | Image | 4096x256 | C (13) | 245 |  | Real | PNG, Mask | ? | [Link](https://www.aitex.es/afid)
