@@ -1,6 +1,6 @@
 # Industrial ML Datasets
 
-The following is a curated list of datasets, publically available for machine learning researches in the area of manufacturing.
+The following is a curated list of datasets, publically available for machine learning research in the area of manufacturing.
 
 :heavy_check_mark: indicates a preset split between training and testing data.
 
