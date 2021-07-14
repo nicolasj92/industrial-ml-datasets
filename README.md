@@ -2,6 +2,16 @@
 
 The following is a curated list of datasets, publically available for machine learning research in the area of manufacturing.
 
+For more information, please check our corresponding publication:
+
+    @inproceedings{jourdan_machine_2021,
+     title = {Machine {Learning} for {Intelligent} {Maintenance} and {Quality} {Control}: {A} {Review} of {Existing} {Datasets} and {Corresponding} {Use} {Cases}},
+     volume = {2},
+     journal = {Proceedings of the 2nd Conference on Production Systems and Logistics},
+     author = {Jourdan, Nicolas and Longard, Lukas and Biegel, Tobias and Metternich, Joachim},
+     year = {2021},
+    }
+
 :heavy_check_mark: indicates a preset split between training and testing data.
 
 :globe_with_meridians: indicates, that the test set labels are hidden behind an evaluation server.
