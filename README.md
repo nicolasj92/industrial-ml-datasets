@@ -18,7 +18,7 @@ For more information, please check our corresponding publication:
 
 ## Predictive Maintenance and Condition Monitoring
 
- Name | Year | Feature Type | Feature Count | Target Variable | Instances | Official Train/Test Split | Data Source | Format | License |  |
+ Name | Year | Feature Type | Feature Count | Target Variable | Instances | Official Train/Test Split | Data Source | Format | License | Access |
  ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
  **Diesel Engine Faults Features** <br> Fault detection based on pressure curves and vibration. | 2020 | Signal | 84 | C (4) | 3.500 | :x: | Synthetic | MAT | CC BY 4.0 | [Link](https://data.mendeley.com/datasets/k22zxz29kr/1)
  **Degradation of a Cutting Blade** <br> Wrapping machine process data over 12 months with a degrading cutting tool. | 2019 | Signal | 9 | C (8) / R | 1.062.912 | :x: | Real | CSV | CC BY-SA 3.0 | [Link](https://www.kaggle.com/inIT-OWL/one-year-industrial-component-degradation)
@@ -43,7 +43,7 @@ For more information, please check our corresponding publication:
 
 ## Process Monitoring
 
-Name | Year | Feature Type | Feature Count | Target Variable | Instances | Official Train/Test Split | Data Source | Format | License | |
+Name | Year | Feature Type | Feature Count | Target Variable | Instances | Official Train/Test Split | Data Source | Format | License | Access |
  ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 **Skoltech Anomaly Benchmark (SKAB)** <br> Time-series data from water circulation loop testbed for evaluating anomaly detection algorithms.| 2020 | Signal | 8 | C (2) | 34×1,200 | :heavy_check_mark: | Real | CSV | GNU GPL v3.0 | [Link](https://github.com/waico/SKAB)
 **High Storage System Anomaly Detection** <br> Storage test rig process data for anomaly detection.| 2018 | Signal | 20 | C (2) | 91.000 | :x: | Synthetic | CSV | CC-BY-NC-SA 4.0 | [Link](https://www.kaggle.com/inIT-OWL/high-storage-system-data-for-energy-optimization)
@@ -56,7 +56,7 @@ Name | Year | Feature Type | Feature Count | Target Variable | Instances | Offic
 
 ## Predictive Quality and Quality Inspection
 
-Name | Year | Feature Type | Feature Count | Target Variable | Instances | Official Train/Test Split | Data Source | Format | License | :x: |
+Name | Year | Feature Type | Feature Count | Target Variable | Instances | Official Train/Test Split | Data Source | Format | License | Access |
  ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 **Casting Product Quality Inspection** <br> Grayscale images of pump impeller castings with and without defects.| 2020 | Image | 300x300 <br> 512x512 | C (2) | 7.348 | :heavy_check_mark: | Real | JPG | CC-BY-NC-ND 4.0 | [Link](https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
 **GC10-DET Defect Location for Metal Surface** <br> Grayscale images of metal surfaces with various defect types and corresponding bounding box annotations. | 2020 | Image | Varying | C (10) | 3.570 | :x: | Real | JPG, XML | ? | [Link](https://www.kaggle.com/zhangyunsheng/defects-class-and-location) 
@@ -78,7 +78,7 @@ Name | Year | Feature Type | Feature Count | Target Variable | Instances | Offic
 
 ## Process Parameter Optimization
 
- Name | Year | Feature Type | Feature Count | Instances | Official Train/Test Split | Data Source | Format | License | |
+ Name | Year | Feature Type | Feature Count | Instances | Official Train/Test Split | Data Source | Format | License | Access |
  ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
  **Laser Welding** <br> Process parameter recordings for correlation with weld quality indicators such as weld depth and geometrical dimensions. | 2020 | Signal | 13 | 361 | :x: | Real | XLS | CC BY 4.0 | [Link](http://dx.doi.org/10.17632/2s5m3crbkd.2)
  **3D Printer** <br> Process parameters of a 3D printer for correlation with print quality indicators such as roughness, tension and elongation. | 2018 | Signal | 12 | 50 | :x: | Real | CSV | ? | [Link](https://www.kaggle.com/afumetto/3dprinter)
