@@ -20,6 +20,7 @@ For more information, please check our corresponding publication:
 
  Name | Year | Feature Type | Feature Count | Target Variable | Instances | Official Train/Test Split | Data Source | Format | License | Access |
  ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+**Wood veneers before and after drying** <br> This dataset consists of 2579 image pairs (5158 images in total) of wood veneers before and after drying. | 2021 | Image | >4000x4000 | - | 5.158 | :x: | Real | PNG | CC BY 4.0 | [Link](https://ieee-dataport.org/open-access/veneer21)
  **Diesel Engine Faults Features** <br> Fault detection based on pressure curves and vibration. | 2020 | Signal | 84 | C (4) | 3.500 | :x: | Synthetic | MAT | CC BY 4.0 | [Link](https://data.mendeley.com/datasets/k22zxz29kr/1)
  **Degradation of a Cutting Blade** <br> Wrapping machine process data over 12 months with a degrading cutting tool. | 2019 | Signal | 9 | C (8) / R | 1.062.912 | :x: | Real | CSV | CC BY-SA 3.0 | [Link](https://www.kaggle.com/inIT-OWL/one-year-industrial-component-degradation)
  **CNC Mill Tool Wear** <br> CNC process data of wax milling with worn/unworn tools. | 2018 | Signal | 48 | C (3*2) | 25.286 | :x: | Real | CSV | CC0: Public Domain | [Link](https://www.kaggle.com/shasun/tool-wear-detection-in-cnc-mill)
