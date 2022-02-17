@@ -12,6 +12,8 @@ For more information, please check our corresponding publication:
      year = {2021},
     }
 
+ Some additional datasets may be found here: [Link](https://github.com/makinarocks/awesome-industrial-machine-datasets)
+ 
 :heavy_check_mark: indicates a preset split between training and testing data.
 
 :globe_with_meridians: indicates, that the test set labels are hidden behind an evaluation server.
